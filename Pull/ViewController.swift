@@ -12,8 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("Hey")
-        print("World")
+        var masterVar = 1
         // Do any additional setup after loading the view, typically from a nib.
     }
 
